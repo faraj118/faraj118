@@ -16,6 +16,12 @@ I build the plumbing that moves money and runs businesses in Libya: card switchi
 | Sahla Wallet | Consumer wallet and financial super-app for Libya (in development) |
 | Al Matien | Consultancy for payments compliance and digital enablement |
 
+**Mobarmej Community · مجتمع مبرمج**
+
+A network of Libyan engineers, analysts, designers and operators who build real systems in Libya. Pick your specialty from 22 roles, and we contact you when a project needs it. Your work becomes your résumé. Sign in with GitHub, no forms.
+
+➡️ [Join the community](https://www.mobarmej.ly/community?utm_source=github&utm_medium=profile&utm_campaign=faraj118)
+
 **Stack**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
