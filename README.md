@@ -12,7 +12,7 @@ I build the plumbing that moves money and runs businesses in Libya: card switchi
 
 | Project | What it is |
 |---|---|
-| [mobarmej.ly](https://www.mobarmej.ly) | Libyan studio for websites, ERP, and banking solutions |
+| [mobarmej.ly](https://www.mobarmej.ly) · [@mobarmej-ly](https://github.com/mobarmej-ly) | Libyan studio for websites, ERP, and banking solutions |
 | Sahla Wallet | Consumer wallet and financial super-app for Libya (in development) |
 | Al Matien | Consultancy for payments compliance and digital enablement |
 
