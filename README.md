@@ -5,7 +5,7 @@ I build the plumbing that moves money and runs businesses in Libya: card switchi
 **What I work on**
 
 - **Payments** — ISO 8583 switch integration, ISO 20022 schema mapping, wallet platforms, cash-in/cash-out networks, ATM infrastructure, and Central Bank of Libya regulatory interfaces. ~7 years in the sector.
-- **ERP** — Odoo, ERPNext, and Oracle Fusion implementations, from single restaurants to multi-entity holding groups.
+- **ERP** — Odoo, ERPNext,for med and large enterprise implementations, from single store to multi-entity holding groups.
 - **Web** — Laravel platforms and business websites through [mobarmej.ly](https://www.mobarmej.ly).
 
 **Currently building**
