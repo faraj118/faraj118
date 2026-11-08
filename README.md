@@ -36,6 +36,7 @@ A network of Libyan engineers, analysts, designers and operators who build real 
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
 ![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=flat&logo=frappe&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![healthchecks.io](https://healthchecks.io/badge/594fee99-4e02-4558-84e7-71de7f/Io6R-xlZ-2.svg)
 ![RESTapi]()
 
 
